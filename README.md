@@ -1,9 +1,7 @@
-# TaskQuest🎯
-
+*Productivity Tracker*
 
 ## Basic Details
 Team Name: Tech Twilight 💫
-
 
 ### Team Members
 - Member 1: Chandni Chandrashekar - AWH Engineering College, Kozhikode
@@ -22,7 +20,17 @@ Our project aims to create a gamified productivity tracker that rewards you with
 Say goodbye to boring to-do lists and hello to motivation, competition, and achievement! 💡🔥
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+
+How It Works:
+1. Add Tasks → Earn Points 📝✅
+    Each task you complete gives you points.
+2. Level Up & Unlock Rewards 🌟🎁
+    Gain XP and move to higher levels as you stay productive.
+3. Leaderboard & Achievements 🏅📊
+    Compete with friends or challenge yourself with milestones.
+4. Remainders - to develop healthy habits 💫
+     Contains a friendly remainder - to stay hydrates and to take breaks occasionally. 
+✨ Stay productive, have fun and make every task an adventure. 
 
 ## Technical Details
 ### Technologies/Components Used
@@ -49,14 +57,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]: https://drive.google.com/file/d/1cijAf0BPKannarmEQwbD4wou2UfoyX4X/view?usp=drive_link 
+*This is the landing page of our Productivity Tracker, where users can enter their names to get started. It features a leaderboard to track progress, a reset button for clearing the scores and a friendly reminder to stay hydrated and to take breaks - every 30 minutes.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]: https://drive.google.com/file/d/1cpQdM2b2P3eaJ6NNz4cD9EZLfaKSJYBO/view?usp=drive_link
+*This screenshot displays the task management interface of the Tracker. Users are able to add new tasks, track their progress (via leaderboard - and reset it) The leaderboard section shows the rankings of different users based on their productivity scores.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]: https://drive.google.com/file/d/1cqsw_7jrmqnGxGgkbgV5zQFCZeM3VD71/view?usp=drive_link
+*This screenshot showcases the task completion and leaderboard of the Tracker. It shows the number of tasks that can be completed by a user in a day and a ranked list of users based on points obtained. The tracker also allows multiple users to their productivity individually, by switching between the accounts. Additionally, it features a break remainder to encourage healthy habits!*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
