@@ -11,7 +11,7 @@ Team Name: Tech Twilight 💫
 - Member 3: Misriya K P - AWH Engineering College, Kozhikode
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://prodtrckr.netlify.app/
 
 ### Project Description
 Traditional to-do lists feel boring, leading to procrastination and unfinished tasks. Gamification can boost motivation by making productivity fun with points, levels, and rewards. This project aims to create a gamified productivity tracker that turns task management into an engaging experience, helping users stay consistent, build better habits, and achieve their goals—all while having fun! 🎮🚀
@@ -30,7 +30,7 @@ For Software:
 - Languages used : HTML, CSS, JS
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- Tools used : AI tools: chatgpt, claude AI, netlify
 
 For Hardware:
 - [List main components]
