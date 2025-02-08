@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+Team Name: Tech Twilight 💫
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Chandni Chandrashekar - AWH Engineering College, Kozhikode
+- Member 2: Nahla M - AWH Engineering College, Kozhikode
+- Member 3: Misriya K P - AWH Engineering College, Kozhikode
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Languages used : HTML, CSS, JS
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Chandni Chandrashekar : [Specific contributions]
+- Nahla M : [Specific contributions]
+- Misriya K P :  [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
