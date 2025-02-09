@@ -94,8 +94,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1ib_TwDlNey-aKaPvv8GZdIPBZxVB3hbq/view?usp=sharing
+*The demo video here demonstrates how the Tracker works and the features of the Tracker.*
 
 # Additional Demos
 [Add any extra demo materials/links]
