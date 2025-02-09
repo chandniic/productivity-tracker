@@ -12,7 +12,7 @@ Team Name: Tech Twilight 💫
 https://prodtrckr.netlify.app/
 
 ### Project Description
-Traditional to-do lists feel boring, leading to procrastination and unfinished tasks. Gamification can boost motivation by making productivity fun with points, levels, and rewards. This project aims to create a gamified productivity tracker that turns task management into an engaging experience, helping users stay consistent, build better habits, and achieve their goals—all while having fun! 🎮🚀
+Traditional to-do lists feel boring, leading to procrastination and unfinished tasks. Gamification can boost motivation by making productivity fun with points, levels. This project aims to create a gamified productivity tracker that turns task management into an engaging experience, helping users stay consistent, build better habits, and achieve their goals—all while having fun! 🎮🚀
 
 ### The Problem statement
 Staying productive feels like a chore? What if getting things done was as fun as playing a game? 
