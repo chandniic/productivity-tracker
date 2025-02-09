@@ -39,7 +39,7 @@ For Software:
 - Languages used : HTML, CSS, JS
 - [Frameworks used]
 - [Libraries used]
-- Tools used : AI tools: chatgpt, claude AI, netlify
+- Tools used : AI tools: chatgpt, claude AI, Netlify (Hosting), Canva (cover image)
 
 For Hardware:
 - [List main components]
