@@ -58,13 +58,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]: https://drive.google.com/file/d/1cijAf0BPKannarmEQwbD4wou2UfoyX4X/view?usp=drive_link 
+![Screenshot1]: https://drive.google.com/file/d/1cijAf0BPKannarmEQwbD4wou2UfoyX4X/view?usp=drive_link : 
 *This is the landing page of our Productivity Tracker, where users can enter their names to get started. It features a leaderboard to track progress, a reset button for clearing the scores and a friendly reminder to stay hydrated and to take breaks - every 30 minutes.*
 
-![Screenshot2]: https://drive.google.com/file/d/1cpQdM2b2P3eaJ6NNz4cD9EZLfaKSJYBO/view?usp=drive_link
+![Screenshot2]: https://drive.google.com/file/d/1cpQdM2b2P3eaJ6NNz4cD9EZLfaKSJYBO/view?usp=drive_link :
 *This screenshot displays the task management interface of the Tracker. Users are able to add new tasks, track their progress (via leaderboard - and reset it) The leaderboard section shows the rankings of different users based on their productivity scores.*
 
-![Screenshot3]: https://drive.google.com/file/d/1cqsw_7jrmqnGxGgkbgV5zQFCZeM3VD71/view?usp=drive_link
+![Screenshot3]: https://drive.google.com/file/d/1cqsw_7jrmqnGxGgkbgV5zQFCZeM3VD71/view?usp=drive_link :
 *This screenshot showcases the task completion and leaderboard of the Tracker. It shows the number of tasks that can be completed by a user in a day and a ranked list of users based on points obtained. The tracker also allows multiple users to track their productivity individually, by switching between the accounts. Additionally, it features a break remainder to encourage healthy habits!*
 
 # Diagrams
