@@ -1,4 +1,4 @@
-*Productivity Tracker*
+*Productivity Tracker - TaskQuest 🎯*
 
 ## Basic Details
 Team Name: Tech Twilight 💫
