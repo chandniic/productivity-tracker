@@ -65,7 +65,7 @@ For Software:
 *This screenshot displays the task management interface of the Tracker. Users are able to add new tasks, track their progress (via leaderboard - and reset it) The leaderboard section shows the rankings of different users based on their productivity scores.*
 
 ![Screenshot3]: https://drive.google.com/file/d/1cqsw_7jrmqnGxGgkbgV5zQFCZeM3VD71/view?usp=drive_link
-*This screenshot showcases the task completion and leaderboard of the Tracker. It shows the number of tasks that can be completed by a user in a day and a ranked list of users based on points obtained. The tracker also allows multiple users to their productivity individually, by switching between the accounts. Additionally, it features a break remainder to encourage healthy habits!*
+*This screenshot showcases the task completion and leaderboard of the Tracker. It shows the number of tasks that can be completed by a user in a day and a ranked list of users based on points obtained. The tracker also allows multiple users to track their productivity individually, by switching between the accounts. Additionally, it features a break remainder to encourage healthy habits!*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
