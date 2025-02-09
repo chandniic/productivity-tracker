@@ -1,4 +1,4 @@
-*Productivity Tracker - TaskQuest 🎯*
+*Productivity Tracker🎯*
 
 ## Basic Details
 Team Name: Tech Twilight 💫
@@ -24,12 +24,13 @@ Say goodbye to boring to-do lists and hello to motivation, competition, and achi
 How It Works:
 1. Add Tasks → Earn Points 📝✅
     Each task you complete gives you points.
-2. Level Up & Unlock Rewards 🌟🎁
+2. Level Up !! 🌟🎁
     Gain XP and move to higher levels as you stay productive.
 3. Leaderboard & Achievements 🏅📊
     Compete with friends or challenge yourself with milestones.
 4. Remainders - to develop healthy habits 💫
-     Contains a friendly remainder - to stay hydrates and to take breaks occasionally. 
+     Contains a friendly remainder - to stay hydrated and to take breaks occasionally.
+   
 ✨ Stay productive, have fun and make every task an adventure. 
 
 ## Technical Details
