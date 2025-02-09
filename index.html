@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productivity Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Productivity Tracker 🎯</h1>
+    
+    <div id="user">
+        <label for="name">Enter your name: </label>
+        <input type="text" id="name">
+        <button id="start-btn">Start</button>
+    </div>
+
+    <div id="tracker-section" style="display: none;">
+        <h2><i>Welcome, <span id="username"></span>!</i></h2>
+
+        <div id="task-manager">
+            <h3>Task List</h3>
+            <input type="text" id="new-task" placeholder="Enter a new task">
+            <button id="add-task">Add Task</button>
+            <ul id="task-list"></ul>
+        </div>
+
+        <div id="stats">
+            <p>Tasks Completed Today: <span id="taskCount">0</span>/5</p>
+            <p>Score: <span id="score">0</span></p>
+            <p>Level: <span id="level">1</span></p>
+        </div>
+        
+        <button id="reset-progress">Reset Progress</button>
+        <button id="switch-user">Switch User</button>
+    </div>
+
+    <div id="leaderboard">
+        <h2> 🏆 Leaderboard</h2>
+        <ul id="leaderboard-list"></ul>
+        <button id="reset-leaderboard">Reset Leaderboard</button>
+    </div>
+    <div id="reminder-box">
+    <p id="reminder-text"><p>Time to drink water 💧 and take a break!</p>
+    <button id="reminder-btn">Got it!</button>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
